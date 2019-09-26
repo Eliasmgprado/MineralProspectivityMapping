@@ -1,2 +1,2 @@
-# MineralProspectivityMapping
-Mineral Prospectivity Mapping (MPM) tools
+# Mineral Prospectivity Mapping - MPM
+MPM tools
